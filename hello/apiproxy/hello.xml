@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="hello">
+    <Basepaths>/hello</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1613372012455</CreatedAt>
+    <CreatedBy>csanghita92@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>hello</DisplayName>
+    <LastModifiedAt>1613372039521</LastModifiedAt>
+    <LastModifiedBy>csanghita92@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:0ffee93b8a695c33ed5f6a72460b5f60d7cebb7663452032f28ae3bbf56c9ffe0b468a78914b5e445c4002f918a3d9c22d4360905a8790ac53f4d8ecf5e32331:ap-northeast-1</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
